@@ -1,16 +1,26 @@
 <div align="center">
 
-# Ciao, I'm Sebastiano
+# Hey, I'm Sebastiano
 
-`Junior AI Specialist` &nbsp; `R&D` &nbsp; `Computer Vision` &nbsp; `Audio Processing`
-<br>
-Gnosis Technology
-
-`MSc Computer Engineering`
-<br>
-Politecnico di Milano
-
-[Mail](mailto:sebastianopietra@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <b>Junior AI Specialist</b>
+      <br>
+      <code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code>
+      <br>
+      <sub>Gnosis Technology</sub>
+    </td>
+    <td align="center">
+      <b>MSc Computer Science and Engineering</b>
+      <br>
+      <sub>Politecnico di Milano</sub>
+    </td>
+    <td align="center">
+      <a href="mailto:sebastianopietra@gmail.com">Mail</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,8 +45,8 @@ Politecnico di Milano
       <br><b>Docker</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" />
-      <br><b>Google Cloud</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="GCP" />
+      <br><b>GCP</b>
     </td>
   </tr>
 </table>
