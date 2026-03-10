@@ -1,43 +1,60 @@
 <div align="center">
 
-# Hi, I'm Sebastiano
-
-**Junior AI Specialist**, Gnosis Technology
-**Student**, MSc in Computer Engineering, Politecnico di Milano
-
-I work in R&D, focusing on **computer vision** and **audio processing**.
+# Sebastiano
 
 <br>
 
-### Tools
+`Junior AI Specialist` · `Gnosis Technology` · `R&D`
+
+`Computer Vision` · `Audio Processing`
+
+`MSc Computer Engineering` · `Politecnico di Milano`
+
+`sebastianopietra@gmail.com`
+
+<br>
+
+---
+
+<br>
+
+### Most Used
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><sub>Python</sub>
+      <br><br><b>Python</b>
+      <br><br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      <br><sub>PyTorch</sub>
+      <br><br><b>PyTorch</b>
+      <br><br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br><sub>TensorFlow</sub>
+      <br><br><b>TensorFlow</b>
+      <br><br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br><sub>Docker</sub>
+      <br><br><b>Docker</b>
+      <br><br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
-      <br><sub>Google Cloud</sub>
+      <br><br><b>Google Cloud</b>
+      <br><br>
     </td>
   </tr>
 </table>
 
 <br>
-
-[mail](mailto:sebastianopietra@gmail.com)
 
 </div>
