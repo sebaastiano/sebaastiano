@@ -4,29 +4,24 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="400">
       <b>Junior AI Specialist</b>
       <br>
-      <sub><code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code></sub>
+      <code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="400">
       <b>MSc Computer Science and Engineering</b>
       <br>
-      <sub><code>Pushing Through</code></sub>
+      <code>Pushing Through</code>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle"><sub>Gnosis Technology</sub></td>
-    <td align="center" valign="middle"><sub>Politecnico di Milano</sub></td>
+    <td align="center" valign="middle" height="30">Gnosis Technology</td>
+    <td align="center" valign="middle" height="30">Politecnico di Milano</td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="right" width="50%"><a href="mailto:sebastianopietra@gmail.com">Mail</a></td>
-    <td align="left" width="50%"><a href="https://www.linkedin.com/in/sebastianopietrasanta/">LinkedIn</a></td>
-  </tr>
-</table>
+<sub><a href="mailto:sebastianopietra@gmail.com">Mail</a></sub> · <sub><a href="https://www.linkedin.com/in/sebastianopietrasanta/">LinkedIn</a></sub>
 
 ---
 
