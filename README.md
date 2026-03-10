@@ -2,25 +2,17 @@
 
 # Ciao, I'm Sebastiano
 
-<br>
-
 `Junior AI Specialist` &nbsp; `R&D` &nbsp; `Computer Vision` &nbsp; `Audio Processing`
 <br>
 Gnosis Technology
-
-<br>
 
 `MSc Computer Engineering`
 <br>
 Politecnico di Milano
 
-<br>
-
 [Mail](mailto:sebastianopietra@gmail.com)
 
 ---
-
-<br>
 
 ### Most Used
 
@@ -48,7 +40,5 @@ Politecnico di Milano
     </td>
   </tr>
 </table>
-
-<br>
 
 </div>
