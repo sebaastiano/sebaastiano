@@ -1,18 +1,22 @@
 <div align="center">
 
-# Sebastiano
+# Ciao, I'm Sebastiano
 
 <br>
 
-`Junior AI Specialist` · `Gnosis Technology` · `R&D`
-
-`Computer Vision` · `Audio Processing`
-
-`MSc Computer Engineering` · `Politecnico di Milano`
-
-`sebastianopietra@gmail.com`
+`Junior AI Specialist` &nbsp; `R&D` &nbsp; `Computer Vision` &nbsp; `Audio Processing`
+<br>
+Gnosis Technology
 
 <br>
+
+`MSc Computer Engineering`
+<br>
+Politecnico di Milano
+
+<br>
+
+[Mail](mailto:sebastianopietra@gmail.com)
 
 ---
 
@@ -22,35 +26,25 @@
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><br><b>Python</b>
-      <br><br>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+      <br><b>Python</b>
     </td>
-    <td align="center" width="110">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      <br><br><b>PyTorch</b>
-      <br><br>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
+      <br><b>PyTorch</b>
     </td>
-    <td align="center" width="110">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br><br><b>TensorFlow</b>
-      <br><br>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+      <br><b>TensorFlow</b>
     </td>
-    <td align="center" width="110">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br><br><b>Docker</b>
-      <br><br>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+      <br><b>Docker</b>
     </td>
-    <td align="center" width="110">
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
-      <br><br><b>Google Cloud</b>
-      <br><br>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud" />
+      <br><b>Google Cloud</b>
     </td>
   </tr>
 </table>
