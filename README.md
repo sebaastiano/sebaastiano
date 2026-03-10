@@ -7,12 +7,12 @@
     <td align="center" valign="middle" width="50%">
       <b>Junior AI Specialist</b>
       <br>
-      <code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code>
+      <sub><code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code></sub>
     </td>
     <td align="center" valign="middle" width="50%">
       <b>MSc Computer Science and Engineering</b>
       <br>
-      <code>Pushing Through</code>
+      <sub><code>Pushing Through</code></sub>
     </td>
   </tr>
   <tr>
@@ -21,7 +21,12 @@
   </tr>
 </table>
 
-[Mail](mailto:sebastianopietra@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/sebastianopietrasanta/)
+<table>
+  <tr>
+    <td align="right" width="50%"><a href="mailto:sebastianopietra@gmail.com">Mail</a></td>
+    <td align="left" width="50%"><a href="https://www.linkedin.com/in/sebastianopietrasanta/">LinkedIn</a></td>
+  </tr>
+</table>
 
 ---
 
