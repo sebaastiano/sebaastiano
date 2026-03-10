@@ -4,22 +4,24 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle" width="50%">
       <b>Junior AI Specialist</b>
       <br>
       <code>R&D</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Audio Processing</code>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle" width="50%">
       <b>MSc Computer Science and Engineering</b>
+      <br>
+      <code>Pushing Through</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><sub>Gnosis Technology</sub></td>
-    <td align="center"><sub>Politecnico di Milano</sub></td>
+    <td align="center" valign="middle"><sub>Gnosis Technology</sub></td>
+    <td align="center" valign="middle"><sub>Politecnico di Milano</sub></td>
   </tr>
 </table>
 
-[Mail](mailto:sebastianopietra@gmail.com) &nbsp; [LinkedIn](https://www.linkedin.com/in/sebastianopietrasanta/)
+[Mail](mailto:sebastianopietra@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/sebastianopietrasanta/)
 
 ---
 
